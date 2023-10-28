@@ -1529,7 +1529,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "owner_hun":
         buttons = [[
-            InlineKeyboardButton('📞 ᴄᴏɴᴛᴀᴄᴛ 🐍', url="https://t.me/MS_Contact_RoBot")
+            InlineKeyboardButton('📞 ᴄᴏɴᴛᴀᴄᴛ 🐍', url="https://t.me/KingDaynamo")
         ],[
             InlineKeyboardButton('🔙 ʙᴀᴄᴋ 🔙', callback_data='start')
         ]]
@@ -1678,7 +1678,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("🔙 ʙᴀᴄᴋ 🔙", callback_data="start"),
-                    InlineKeyboardButton("🤵ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/MS_Contact_RoBot")
+                    InlineKeyboardButton("🤵ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/KingDaynamo")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
