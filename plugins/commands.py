@@ -43,8 +43,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⇋ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⇋', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✦ ᴏᴡɴᴇʀ ✦', callback_data='owner_hun'),
-                    InlineKeyboardButton('🌿 ꜱᴜᴘᴘᴏʀᴛ', callback_data='oye_support')
+                    InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇs 💠', url='https://t.me/+ZWnER3pSUPVjZjg1')
                 ],[
                     InlineKeyboardButton('💠 ʜᴇʟᴘ 💠', callback_data='help'),
                     InlineKeyboardButton('✦ ᴀʙᴏᴜᴛ ✦', callback_data='about')
@@ -91,8 +90,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⇋ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⇋', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✦ ᴏᴡɴᴇʀ ✦', callback_data='owner_hun'),
-                    InlineKeyboardButton('🌿 ꜱᴜᴘᴘᴏʀᴛ', callback_data='oye_support')
+                    InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇs 💠', url='https://t.me/+ZWnER3pSUPVjZjg1')
                 ],[
                     InlineKeyboardButton('💠 ʜᴇʟᴘ 💠', callback_data='help'),
                     InlineKeyboardButton('✦ ᴀʙᴏᴜᴛ ✦', callback_data='about')
@@ -148,7 +146,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/MS_Movvies")
+                          InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/+ZWnER3pSUPVjZjg1")
                          ]]
                     )
                 )
@@ -163,7 +161,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/MS_Movvies")
+                          InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/+ZWnER3pSUPVjZjg1")
                          ]]
                     )
                 )
@@ -324,7 +322,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/MS_Movvies")
+                      InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/+ZWnER3pSUPVjZjg1")
                      ]]
                 )
             )
@@ -379,7 +377,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/MS_Movvies")
+                      InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/+ZWnER3pSUPVjZjg1")
                      ]]
                 )
             )
@@ -433,7 +431,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/MS_Movvies")
+              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇꜱ 🎥', url="https://t.me/+ZWnER3pSUPVjZjg1")
              ]]
         )
     )
