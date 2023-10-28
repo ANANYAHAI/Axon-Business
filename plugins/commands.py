@@ -942,7 +942,7 @@ async def shortlink(bot, message):
     try:
         command, shortlink_url, api = data.split(" ")
     except:
-        return await message.reply_text("<b>Command Incomplete :( \n\n➥ ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ꜱʜᴏʀᴛᴇɴᴇʀ:\n\n[ ꜱᴛᴇᴘ 1 ]👉 ᴀᴅᴅɪɴɢ ɪɴ ɢʀᴘ, ꜱᴇᴛ ʏᴏᴜʀ ꜱʜᴏʀᴛᴇɴᴇʀ\n\n[ ꜱᴛᴇᴘ 2 ]👉 ꜱᴇɴᴅ ʏᴏᴜʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ɪɴ ᴛʜᴇ ɢɪᴠᴇɴ ꜰᴏʀᴍᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 👇.\n\n[ /shortlink ᴡᴇʙꜱɪᴛᴇɴᴀᴍᴇ ᴀᴘɪ ᴛᴏᴋᴇɴ]\n\nᴇxᴀᴍᴘʟᴇ 👇\n\n<code> /shortlink ziplinker.net b13a8022cb09d3a1dd7b40f251e5cc306099dfb4</code>\n\nɴᴏᴡ ʏᴏᴜʀ ᴡᴏʀᴋ ɪꜱ ᴏᴠᴇʀ\n\n[ɴᴏᴛᴇ 👉ᴏᴜʀ ʙᴏᴛ ɪꜱ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀʏ ᴜꜱᴇʀ ].\n⭕⭕ ꜱᴇᴛ ʏᴏᴜʀ ᴏᴡɴ ꜱʜᴏʀᴛɴᴇʀ ꜱɪᴛᴇ ᴡᴇ ᴅᴏɴ'ᴛ ʜᴏʟᴅ ʏᴏᴜʀ ᴀɴʏ ᴅᴀᴛᴀ ᴏʀ ᴍᴏɴᴇʏ ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ꜱʜᴏʀᴛɴᴇʀ ᴛʜᴇɴ ɢᴏ ᴏɴ ʏᴏᴜᴛᴜʙᴇ ᴏʀ ᴀɴʏᴡʜᴇʀᴇ ᴀɴᴅ ᴋɴᴏᴡ ʜᴏᴡ ɪᴛ'ꜱ ᴡᴏʀᴋ ᴀɴᴅ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ⭕⭕\n\nAny Doubts or Not Connecting? Contact Me @MS_Contact_RoBot\n\nOr Watch This Video t.me/MS_Mihir/26</b>")
+        return await message.reply_text("<b>Command Incomplete :( \n\n➥ ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ꜱʜᴏʀᴛᴇɴᴇʀ:\n\n[ ꜱᴛᴇᴘ 1 ]👉 ᴀᴅᴅɪɴɢ ɪɴ ɢʀᴘ, ꜱᴇᴛ ʏᴏᴜʀ ꜱʜᴏʀᴛᴇɴᴇʀ\n\n[ ꜱᴛᴇᴘ 2 ]👉 ꜱᴇɴᴅ ʏᴏᴜʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ɪɴ ᴛʜᴇ ɢɪᴠᴇɴ ꜰᴏʀᴍᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 👇.\n\n[ /shortlink ᴡᴇʙꜱɪᴛᴇɴᴀᴍᴇ ᴀᴘɪ ᴛᴏᴋᴇɴ]\n\nᴇxᴀᴍᴘʟᴇ 👇\n\n<code> /shortnerziplinker.net b13a8022cb09d3a1dd7b40f251e5cc306099dfb4</code>\n\nɴᴏᴡ ʏᴏᴜʀ ᴡᴏʀᴋ ɪꜱ ᴏᴠᴇʀ\n\n[ɴᴏᴛᴇ 👉ᴏᴜʀ ʙᴏᴛ ɪꜱ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀʏ ᴜꜱᴇʀ ].\n⭕⭕ ꜱᴇᴛ ʏᴏᴜʀ ᴏᴡɴ ꜱʜᴏʀᴛɴᴇʀ ꜱɪᴛᴇ ᴡᴇ ᴅᴏɴ'ᴛ ʜᴏʟᴅ ʏᴏᴜʀ ᴀɴʏ ᴅᴀᴛᴀ ᴏʀ ᴍᴏɴᴇʏ ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ꜱʜᴏʀᴛɴᴇʀ ᴛʜᴇɴ ɢᴏ ᴏɴ ʏᴏᴜᴛᴜʙᴇ ᴏʀ ᴀɴʏᴡʜᴇʀᴇ ᴀɴᴅ ᴋɴᴏᴡ ʜᴏᴡ ɪᴛ'ꜱ ᴡᴏʀᴋ ᴀɴᴅ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ⭕⭕\n\nAny Doubts or Not Connecting? Contact Me @KingDaynamo\n\nOr Watch This Video https://t.me/AllHindiMoviesFiles</b>")
     reply = await message.reply_text("<b>Please Wait...</b>")
     shortlink_url = re.sub(r"https?://?", "", shortlink_url)
     shortlink_url = re.sub(r"[:/]", "", shortlink_url)
